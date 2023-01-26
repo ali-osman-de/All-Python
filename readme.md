@@ -1,0 +1,1 @@
+Bu Python modülünün içerisinde Sıfırdan İleri Seviye Python Eğitiminde öğrendiklerimi ve geliştirdiğim projeleri yükledim. Django bölümü ile hala ilgileniyorum ve orada kendimi geliştirmeye çalışıyorum.
